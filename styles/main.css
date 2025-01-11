@@ -42,3 +42,7 @@
     --label-medium: 700 1.25rem/150% var(--font-robotoflex);
     --label-small: 700 1rem/150% var(--font-robotoflex);
 }
+
+body{
+    color: inherit;
+}
